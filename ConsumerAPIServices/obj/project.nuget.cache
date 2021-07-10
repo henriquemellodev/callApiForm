@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BpATsUKgOPrh0dQKXYU9pB2OJQbO6e+xbCiLtm5SJu/sdjim31ClSzx82bk63SA8JsvadATVW7UxhV3JiefleQ==",
+  "success": true,
+  "projectFilePath": "C:\\DEV\\DEV\\ConsumerAPIServices\\ConsumerAPIServices\\ConsumerAPIServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henrique.serrao\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

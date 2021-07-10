@@ -1,0 +1,17 @@
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\ConsumerAPIServices.exe
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\ConsumerAPIServices.deps.json
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\ConsumerAPIServices.runtimeconfig.json
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\ConsumerAPIServices.runtimeconfig.dev.json
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\ConsumerAPIServices.dll
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\ConsumerAPIServices.pdb
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.csproj.AssemblyReference.cache
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.Forms.CallAPI.resources
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.csproj.GenerateResource.cache
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.AssemblyInfoInputs.cache
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.AssemblyInfo.cs
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.csproj.CoreCompileInputs.cache
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.dll
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.pdb
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.genruntimeconfig.cache
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\DEV\DEV\ConsumerAPIServices\ConsumerAPIServices\obj\Debug\netcoreapp3.1\ConsumerAPIServices.csproj.CopyComplete
